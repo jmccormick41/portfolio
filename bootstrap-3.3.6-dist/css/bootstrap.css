@@ -4286,7 +4286,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   text-decoration: none;
 }
 
-.container{background-image: url(..images/images"aboutme.png");}
+.container{
+  background-image: url("../images/Aboutme.png");
+}
 .navbar-brand > img {
   display: block;
 }
